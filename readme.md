@@ -1,4 +1,4 @@
 # Image Classification
 ## TensorFlow, Keras, and PyTorch
-
-GPU most def required!
+- Cat or Dog
+    - Results: 95% accurate
