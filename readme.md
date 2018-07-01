@@ -3,4 +3,4 @@
 - Cat or Dog
     - Results: 89% -> 95% accuracy
 - MNIST
-    - Results 95 -> 95%
+    - Results 85 -> 95%
